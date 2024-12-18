@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Best Buy products</h2>
 
-![Best Buy products dataset header](https://github.com/luminati-io/Home-Depot-dataset-sample/blob/main/Home-Depot-datasets.png)
+![Best Buy products dataset header](https://github.com/luminati-io/Best-Buy-dataset-sample/blob/main/Best-Buy-dataset.png)
 
 A Best Buy products dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
